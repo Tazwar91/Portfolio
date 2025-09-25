@@ -35,8 +35,9 @@ The website is designed to be **modern, responsive, and user-friendly**.
 ## 📬 Contact Me
 - **Email:** tazwarmonim@gmail.com  
 - **GitHub:** [Tazwar91](https://github.com/Tazwar91)  
-- **LinkedIn:** [Your LinkedIn link]  
-- **Instagram/Facebook:** [Your social handles]  
+- **LinkedIn:** [Monim Tazwar](https://www.linkedin.com/in/monim-tazwar-ba08512b6/)  
+- **Instagram:** [monim_tazwar](https://www.instagram.com/monim_tazwar/)  
+- **Facebook:** [Monim Tazwar](https://www.facebook.com/monim.tazwar.2024)  
 
 ---
 
@@ -50,4 +51,3 @@ The website is designed to be **modern, responsive, and user-friendly**.
 
 ## 📄 License
 This project is open-source and available under the **MIT License**.
-

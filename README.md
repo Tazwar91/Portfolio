@@ -17,9 +17,9 @@ The website is designed to be **modern, responsive, and user-friendly**.
 
 ## 🛠️ Built With
 - **HTML5**  
-- **CSS3 / Tailwind CSS** (if used)  
-- **JavaScript (Vanilla/Frameworks if any)**  
-
+- **CSS** 
+- **JavaScript**  
+- **PHP**
 ---
 
 ## 📸 Preview
@@ -47,7 +47,3 @@ The website is designed to be **modern, responsive, and user-friendly**.
 - Add backend for contact form submission  
 - Deploy with custom domain  
 
----
-
-## 📄 License
-This project is open-source and available under the **MIT License**.

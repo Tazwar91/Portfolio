@@ -46,4 +46,3 @@ The website is designed to be **modern, responsive, and user-friendly**.
 - Integrate a blog section  
 - Add backend for contact form submission  
 - Deploy with custom domain  
-

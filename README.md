@@ -5,6 +5,11 @@ The website is designed to be **modern, responsive, and user-friendly**.
 
 ---
 
+## 🔗 Live Demo
+👉 [View Portfolio](https://Tazwar91.github.io/Portfolio)
+
+---
+
 ## 🚀 Features
 - 🖥️ Responsive design for all devices  
 - 🌙 Light/Dark mode toggle  
@@ -25,10 +30,6 @@ The website is designed to be **modern, responsive, and user-friendly**.
 ## 📸 Preview
 ![Portfolio Screenshot](Screenshot%202025-09-25%20153659.png)
 
----
-
-## 🔗 Live Demo
-👉 [View Portfolio](https://Tazwar91.github.io/Portfolio)
 
 ---
 
